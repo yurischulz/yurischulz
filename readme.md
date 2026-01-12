@@ -1,28 +1,53 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+# Hi, I'm Yuri 👋
 
-#### I've been a web developer since 2012, hailing from Rio Grande do Sul, Brazil.
+I'm a **Tech Lead & Frontend Engineer** with 10+ years of experience building scalable web applications and leading frontend teams.
 
--   🏢 Currently, I'm working as a Tech Lead and Front End Developer at [**Zallpy Digital**](https://zallpy.com/), stationed at [**Unicred do Brasil**](https://www.unicred.com.br/).
+Currently working at **Zallpy Digital**, allocated to **Unicred do Brasil**, focusing on frontend architecture, developer experience, and product evolution.
 
-## Github Stats
+---
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=yurischulz&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
+## 💼 What I do
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurischulz&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+- Frontend architecture for scalable products
+- Technical leadership and mentoring
+- Design system integration and governance
+- API and BFF integration (Node.js)
+- UX-driven development and performance optimization
 
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="FireBase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="WebPack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg">
-  <img align="center" alt="Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
-</div>
+## 🛠 Tech Stack
+
+**Frontend**
+- React, React Native, TypeScript
+- Next.js, Expo
+- Tailwind / CSS-in-JS / Sass
+
+**Backend & Infra**
+- Node.js, Express
+- Supabase, MongoDB, Firebase
+- AWS (Lambdas, SQS)
+
+**Tooling & Practices**
+- Clean Architecture
+- Micro-frontends
+- CI/CD
+- Testing strategies
+- Documentation & technical design
+
+---
+
+## 📊 GitHub Stats
+
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurischulz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurischulz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+---
+
+## 📫 Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🌐 Portfolio (coming soon)
+
+---
