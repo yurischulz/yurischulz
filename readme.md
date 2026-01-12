@@ -39,9 +39,9 @@ Currently working at **Zallpy Digital**, allocated to **Unicred do Brasil**, foc
 
 ## 📊 GitHub Stats
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurischulz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurischulz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurischulz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurischulz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -51,3 +51,4 @@ Currently working at **Zallpy Digital**, allocated to **Unicred do Brasil**, foc
 - 🌐 Portfolio (coming soon)
 
 ---
+
